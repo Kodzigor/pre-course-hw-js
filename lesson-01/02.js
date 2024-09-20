@@ -1,3 +1,3 @@
-let number = Math.floor((Math.random() * 100));
+let number1 = Math.floor((Math.random() * 100));
 
-number % 2 === 0 ? console.log(number, 'Это четное число') :  console.log(number, 'Это нечетное число') ;
+console.log(number1, ':Это четное число')
