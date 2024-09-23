@@ -1,6 +1,6 @@
-let number1 = 1;
-console.log(number1++);
-console.log(++number1);
-console.log(number1--);
-console.log(--number1);
+let number = 1;
+console.log(number++);
+console.log(++number);
+console.log(number--);
+console.log(--number);
 
